@@ -1,0 +1,2 @@
+# Investigation-and-Technological-Development-of-a-Taillight-to-be-Approved-in-the-Automotive-Industry
+This internship report stems from a partnership established between the Department of Physics at the University of Aveiro and the company SIM - Sociedade Irmãos Miranda, S.A.This partnership allowed the design and development of a taillight to be used in the automotive industry, using LEDs as the light source.
